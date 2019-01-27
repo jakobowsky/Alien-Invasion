@@ -1,0 +1,12 @@
+# .gitignore
+
+# Temporary files
+.#~
+*.*~
+~.#~
+/.#~
+.vscode*
+
+#venv
+Pipfile
+Pipfile.lock
